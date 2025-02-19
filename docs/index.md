@@ -12,10 +12,6 @@ Welcome to this **Markdown** showcase! This document is designed to demonstrate 
 5. [Links & Images](#-links--images)
 6. [Tables](#-tables)
 7. [Blockquotes](#-blockquotes)
-8. [Horizontal Rules](#-horizontal-rules)
-9. [Emojis](#-emojis)
-10. [Conclusion](#-conclusion)
-
 ---
 
 ## 📑 Headings
