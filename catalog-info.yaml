@@ -3,6 +3,7 @@ kind: Component
 metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: backstage-showcase/hello-world
   name: hello-world
   description: The place to be
 spec:
